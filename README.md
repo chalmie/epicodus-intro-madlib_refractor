@@ -6,7 +6,7 @@
 
 ## Description
 
-_A Madlib website that uses an array and the refractor concept._
+_A Madlib website that uses an array and the refractor concept. Current version does not have an input form, the answers are declared inside scripts.js_
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ _Fork or clone this repo and open index.html in any standard web-browser._
 
 ## Known Bugs
 
-_No known bugs at this time._
+_There is no form to insert your own answers in this version. To change what is populated, alter the contents of the array answers in scripts.js. Array must be of same length as blanks array._
 
 ## Technologies Used
 
